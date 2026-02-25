@@ -214,7 +214,7 @@ HACKATON_FASE5/
 ## 🛠️ Tecnologias Utilizadas
 
 - **Python 3.10+** — Linguagem principal
-- **OpenAI GPT-4o / GPT-4o-mini** — Modelos multimodais para análise de imagem e geração de texto (selecionável pela interface)
+- **OpenAI GPT-4o / GPT-4o-mini** — Modelos multimodais para análise de imagem e geração de texto
 - **Streamlit** — Framework para interface web
 - **SQLite** — Banco de dados local para persistência do histórico de análises
 - **fpdf2** — Geração de relatórios em PDF
